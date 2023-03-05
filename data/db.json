@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "Create 1st Project",
+      "details": "Insurance Project",
+      "complete": false
+    },
+    {
+      "title": "Create 2nd Project",
+      "details": "Banking",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
